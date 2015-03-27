@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#836FFF</color>
+    <drawable name="button_hover">#EE2C2C</drawable>
+    <drawable name="button_enable">#CDC5BF</drawable>
+</resources>
